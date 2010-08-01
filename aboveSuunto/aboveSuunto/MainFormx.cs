@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace aboveSuunto
 {
-  public partial class MainForm : Form
+  public partial class MainFormx : Form
   {
-    public MainForm()
+    public MainFormx()
     {
       InitializeComponent();
     }
