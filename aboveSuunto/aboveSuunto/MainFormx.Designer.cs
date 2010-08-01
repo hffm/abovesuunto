@@ -1,6 +1,6 @@
 ﻿namespace aboveSuunto
 {
-  partial class MainForm
+  partial class MainFormx
   {
     /// <summary>
     /// Required designer variable.
